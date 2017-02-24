@@ -52,10 +52,11 @@ tbLIST_NOINOPOSSUMSNOCANONEHATE = ['Dearest', 'Rebecca', 'Hate', 'the', 'the', '
 tbLIST_NOINOPOSSUMSONEHATE = ['Dearest', 'Rebecca', 'Hate', 'the', 'the', 'so', 'much', 'My', 'rage', 'for', 'them', 'is', 'all', 'can', 'think', 'about', 'They', 'scratch', 'and', 'bite', 'like', 'the', 'demons', 'in', 'fairy', 'tales', 'can', 'no', 'longer', 'love', 'you', 'can', 'only', 'the', 'Sincerely', 'Timothy', 'Bonner'] #not in UI
 tbLIST_NOINOPOSSUMSNOHATE = ['Dearest', 'Rebecca', 'the', 'the', 'so', 'much', 'My', 'rage', 'for', 'them', 'is', 'all', 'can', 'think', 'about', 'They', 'scratch', 'and', 'bite', 'like', 'the', 'demons', 'in', 'fairy', 'tales', 'can', 'no', 'longer', 'love', 'you', 'can', 'only', 'the', 'Sincerely', 'Timothy', 'Bonner'] #not in UI
 tbLIST_NOFAIRYNOCAN = ['Dearest', 'Rebecca', 'I', 'Hate', 'the', 'possums', 'I', 'hate', 'the', 'possums', 'so', 'much', 'My', 'rage', 'for', 'them', 'is', 'all', 'I', 'think', 'about', 'They', 'scratch', 'and', 'bite', 'like', 'the', 'demons', 'in', 'tales', 'I', 'no', 'longer', 'love', 'you', 'I', 'only', 'hate', 'the', 'possums', 'Sincerely', 'Timothy', 'Bonner']
+tbLIST_NOTHE = ['Dearest', 'Rebecca', 'I', 'Hate', 'possums', 'I', 'hate', 'possums', 'so', 'much', 'My', 'rage', 'for', 'them', 'is', 'all', 'I', 'can', 'think', 'about', 'They', 'scratch', 'and', 'bite', 'like', 'demons', 'in', 'fairy', 'tales', 'I', 'can', 'no', 'longer', 'love', 'you', 'I', 'can', 'only', 'hate', 'possums', 'Sincerely', 'Timothy', 'Bonner']
 
 #text = select which text to slice
 #sliced = specify data type
-text = tbLIST_NOFAIRYNOCAN
+text = tbLIST_NOTHE
 length = len(text)
 sliced = []
 
