@@ -6,6 +6,23 @@ tbTEXT_JUSTLETTERS = 'DearestRebeccaIHatethepossumsIhatethepossumssomuchMyragefo
 tbTEXT_NOSPACE = 'DearestRebecca,IHatethepossums.Ihatethepossumssomuch.MyrageforthemisallIcanthinkabout.Theyscratchandbitelikethedemonsinfairytales.Icannolongerloveyou.Icanonlyhate......thepossums.Sincerely,TimothyBonner'
 tbTEXT_NOCAPS = 'earestebeccaatethepossumshatethepossumssomuchyrageforthemisallcanthinkaboutheyscratchandbitelikethedemonsinfairytalescannolongerloveyoucanonlyhatethepossumsincerelyimothyonner' #not in UI
 tbTEXT_ONLYCAPS = 'DRIHIMITIISTB' #not in UI
+tbTEXT_NOOTIS = '''
+Deare Rebecca,
+
+ Hae he pum.
+ hae he pum  much.
+My rage fr hem  all
+ can hnk abu.
+hey crach and be lke he
+demns n fairy ale.
+ can n lnger lve yu.
+ can nly hae...
+
+...he pum.
+
+ncerely,
+mhy Bnner
+'''
 tbTEXT_FULLTEXT = '''
 Dearest Rebecca,
 
